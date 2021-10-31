@@ -1,5 +1,5 @@
 body {
-  min-width: 1600px;
+  /* min-width: 1600px; */
   background-color: var(--white-color);
   color: var(--text-second-color);
   font-family: Roboto, sans-serif;
